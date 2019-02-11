@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shijexig.mkingcate.com/sitemap.xml
